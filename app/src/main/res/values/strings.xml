@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">L7Ex1ObjetoConta</string>
+    <string name="especial">Especial</string>
+    <string name="poupanca">Poupança</string>
+    <string name="nome">Nome</string>
+    <string name="numero">Nº</string>
+    <string name="saldo">Saldo</string>
+    <string name="limite">Limite</string>
+    <string name="diarendimento">Dia de rendimento</string>
+    <string name="salvar">Salvar</string>
+    <string name="dados">Dados</string>
+    <string name="valor">Insira o valor</string>
+    <string name="sacar">Sacar</string>
+    <string name="depositar">Depositar</string>
+    <string name="taxa">Taxa de rendimento</string>
+    <string name="render">Render</string>
+    <string name="salvarconcluido">Atributos salvos com sucesso!</string>
+    <string name="saldoatualizado">Saldo atualizado!\nNovo saldo: R$</string>
+    <string name="sacado">Valor sacado</string>
+    <string name="depositado">Valor depositado</string>
+</resources>
